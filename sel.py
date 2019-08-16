@@ -3,7 +3,7 @@
     File name: sel.py
     Author: Daniel Martinez
     Date created: 8/14/20193
-    Date last modified: 8/16/2019 <-- imp datetimenow
+    Date last modified: 8/16/2019
     Python 3.6.8, Selenium 3.141.0
 '''
 import json
